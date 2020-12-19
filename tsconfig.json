@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "strictNullChecks": true,
+        "out": "built/out.js", 
+        "sourceMap": true, 
+        "target": "es5"
+    }, 
+    "files": [
+        "main.ts",
+        "domain.ts"
+    ]
+}
